@@ -13,5 +13,5 @@ class DiscordStatusFreetime:
     }
     '''
 
-    def change_status_freetime():
+    def change_status_freetime(self):
         pass
